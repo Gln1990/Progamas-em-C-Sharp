@@ -1,0 +1,11 @@
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.BLL.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.BLL.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.DAL.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.DTO.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.DAL.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\bin\Release\Musikaos.DTO.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\obj\Release\Musikaos.BLL.csproj.AssemblyReference.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\obj\Release\Musikaos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\obj\Release\Musikaos.BLL.csproj.CopyComplete
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\obj\Release\Musikaos.BLL.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.BLL\obj\Release\Musikaos.BLL.pdb

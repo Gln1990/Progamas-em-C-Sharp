@@ -1,0 +1,6 @@
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\bin\Release\Musikaos.DTO.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\bin\Release\Musikaos.DTO.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\obj\Release\Musikaos.DTO.csproj.AssemblyReference.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\obj\Release\Musikaos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\obj\Release\Musikaos.DTO.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DTO\obj\Release\Musikaos.DTO.pdb

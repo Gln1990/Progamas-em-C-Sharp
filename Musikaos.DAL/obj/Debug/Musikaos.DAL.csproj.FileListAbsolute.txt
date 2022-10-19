@@ -1,0 +1,15 @@
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DAL.dll
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DAL.pdb
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.csproj.AssemblyReference.cache
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.dll
+C:\Users\wil.rrsilva\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DAL.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DAL.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DTO.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Debug\Musikaos.DTO.pdb
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.csproj.AssemblyReference.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.csproj.CopyComplete
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.dll
+C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Debug\Musikaos.DAL.pdb
