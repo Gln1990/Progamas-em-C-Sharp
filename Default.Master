@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Teko.UI.Default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="Content/Style.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Img/logoRosaShop.png" rel="icon" />
+
+    <!-- Boxicons CSS -->
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     
+        <%--navbar--%>
+        <header>
+            <nav>
+            <div class="menuC">
+            <a href="#home">
+                        <img src="../Img/logoRosaShop.png" alt="logo" class="logo"></a>
+                
+                <div class="menuI">
+                        <a href="ManagerUsuario.aspx">Adiministrador</a>
+                        <a href="ManagerProduto.aspx">Produto</a>
+                        <a href="ListaCliente.aspx">Lista de Cliente</a>
+                        <a href="ConsultaUsuario.aspx">Lista de Usuarios</a>
+                        <a href="ConsultaProduto.aspx">Lista de Produtos</a>
+                  </div>  
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <div class="container-fluid ajuste">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </main>
+    </form>
+    <%--footer--%>
+    <footer>
+        <div class="footerC">
+
+            <h2>Visite Nossas Midias Sociaias</h2>
+            <ul class="footerLista">
+                 <li><a href="#">f</a></li>
+                <li><a href="#">c</a></li>
+                <li><a href="#">i</a></li>
+                <li><a href="#">n</a></li>
+            </ul>
+
+        </div>
+    </footer>
+
+    <%--Scripts--%>
+    <script src="../Scripts/Script.js"></script>
+    <%--<script src="../Scripts/jquery-3.5.1.min.js"></script>--%>
+    <script src="../Scripts/bootstrap.min.js"></script>
+</body>
+</html>
