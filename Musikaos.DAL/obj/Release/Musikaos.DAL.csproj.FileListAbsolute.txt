@@ -1,9 +1,0 @@
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Release\Musikaos.DAL.dll
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Release\Musikaos.DAL.pdb
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Release\Musikaos.DTO.dll
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\bin\Release\Musikaos.DTO.pdb
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Release\Musikaos.DAL.csproj.AssemblyReference.cache
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Release\Musikaos.DAL.csproj.CoreCompileInputs.cache
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Release\Musikaos.DAL.csproj.CopyComplete
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Release\Musikaos.DAL.dll
-C:\Users\ronivaldo.pcosta\source\repos\Musikaos\Musikaos.DAL\obj\Release\Musikaos.DAL.pdb
